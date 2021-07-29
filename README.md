@@ -1,1 +1,1 @@
-# Prestashop - development
+# Prestashop - development | Docker
